@@ -1,6 +1,12 @@
 # purdue-ece570-artificial-intelligence
 
-Coursework repository for **ECE 570 — Artificial Intelligence (Purdue)**. This repo contains four self-contained assignments implemented primarily as Jupyter notebooks, each living under `assignments/` with its own local README and notebook.
+Coursework repository for **ECE 570 — Artificial Intelligence (Fall 2025)** at Purdue, taught by **Prof. David I. Inouye**.
+
+- Course page: https://www.davidinouye.com/course/ece57000-fall-2025/
+- Instructor: https://www.davidinouye.com/
+- Author (assignments): **Arash Jalil Khabbazi**
+
+This repo contains four self-contained assignments implemented primarily as Jupyter notebooks, each living under `assignments/` with its own local README and notebook.
 
 ## Repository layout
 
